@@ -1,2 +1,2 @@
 # .github
-[Exprimental] kinya-lang
+[Exprimental] kin-lang
