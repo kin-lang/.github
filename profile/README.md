@@ -1,4 +1,4 @@
-[Exprimental] Kinya-lang
+[Exprimental] Kin-lang
 
 <!--
 ## Hi there 👋
